@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = soto.simas@gmail.com
+	name = Carlos Soto
